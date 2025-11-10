@@ -120,8 +120,8 @@ Copyright (c) 2025 Theophilus Asamoah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 ...
-[`Suiper`](https://github.com/Suiper34)
 ```
+[`See License`](https://github.com/Suiper34)
 
 ---
 
